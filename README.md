@@ -79,7 +79,7 @@ Installation
 
 To install this tool on the load generating server, use the following command:
 
-1. git clone https://github.com/vibhorkum/pg_mongo_benchmark.git
+1. git clone https://github.com/EnterpriseDB/pg_mongo_benchmark.git
 2. cd pg_mongo_benchmark
 3. chmod +x pg_nosql_benchmark
 
